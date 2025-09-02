@@ -446,7 +446,7 @@ footer ul li {
 }
 #contenedor_03 {
 	width: 1500px;
-	height: 1330px;
+	height: 1430px;
 	float: left;
 }
 .productos_03 {
@@ -455,6 +455,8 @@ footer ul li {
 	float: left;
 	margin-top: 50px;
 	margin-left: 50px;
+	-webkit-box-shadow: 0px 0px 30px;
+	box-shadow: 0px 0px 30px;
 }
 .productos_03:hover {
 	width: 700px;
@@ -563,6 +565,8 @@ footer ul li {
 	margin-left: 50px;
 	margin-bottom: 50px;
 	margin-top: 50px;
+	-webkit-box-shadow: 0px 0px 30px;
+	box-shadow: 0px 0px 30px;
 }
 .productos_06 {
 	width: 700px;
@@ -571,6 +575,8 @@ footer ul li {
 	margin-bottom: 50px;
 	float: left;
 	margin-top: 50px;
+	-webkit-box-shadow: 0px 0px 30px;
+	box-shadow: 0px 0px 30px;
 }
 .productos_06:hover {
 	width: 700px;
@@ -592,3 +598,4 @@ footer ul li {
 .rosa #contactos ul {
 	list-style-type: none;
 }
+
